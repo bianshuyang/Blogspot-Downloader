@@ -1,0 +1,2 @@
+# Blogspot-Downloader
+This file could download blogspot.com articles written in non-English. It will write each blog into a word file. Pictures, tables, etc. are not included. Only pure word would be written into that word file. This is better, however, than the BlogspotToDocxV1.6.4.exe_windows exe. Since separate word file converting ensures that you could set breakpoints and start whenever you want. For Chinese users, if the blog is in traditional Chinese, it will automatically be converted into simplified Chinese. 
